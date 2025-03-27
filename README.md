@@ -1,4 +1,4 @@
-* Actually, I don't really know what to write here. So let me introduce you to my daily drive set-up.
+*Actually, I don't really know what to write here. So let me introduce you to my daily drive set-up.
 
 My development environment is built on [Arch Linux running in WSL](https://github.com/yuk7/ArchWSL) (Windows Subsystem for Linux) under Windows, giving me the best of both worlds—native Windows compatibility with a full-fledged Linux toolkit. For my terminal needs, I rely on [WezTerm](https://wezterm.org/), a fast, feature-rich GPU-accelerated terminal emulator that handles my workflows smoothly. Inside it, I use [Zsh](https://en.wikipedia.org/wiki/Z_shell) as my primary shell, enhanced with plugins and custom configurations for productivity.
 

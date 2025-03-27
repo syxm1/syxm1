@@ -1,6 +1,6 @@
 ### Hi, I'm syxm1! 👋
 
-*Honestly, I’m not sure what to write here, so let me just show you my daily setup instead.
+###### *Honestly, I’m not sure what to write here, so let me just show you my daily setup instead.
 
 Here’s a quick peek at my setup: <br>
 <p align="center">

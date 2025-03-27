@@ -1,7 +1,5 @@
 ### Hi, I'm syxm1! 👋
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
 *Honestly, I’m not sure what to write here, so let me just show you my daily setup instead.
 
 Here’s a quick peek at my setup: <br>

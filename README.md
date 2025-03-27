@@ -1,4 +1,4 @@
-### Hi, I'm syxm1!
+### Hi, I'm syxm1! 👋
 
 *Honestly, I’m not sure what to write here, so let me just show you my daily setup instead.
 

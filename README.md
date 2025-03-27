@@ -2,7 +2,10 @@ I run [Arch WSL](https://github.com/yuk7/ArchWSL) on Windows and use [WezTerm](h
 
 This is the preview of my set-up. <br>
 <p align="center">
-<img src="https://github.com/syxm1/syxm1/blob/master/img.png" alt="Preview" width="600"/>
+  <img src="https://github.com/syxm1/syxm1/blob/master/img/img1.png" alt="Preview" width="400"/>
+  <img src="https://github.com/syxm1/syxm1/blob/master/img/img2.png" alt="Preview" width="400"/>
+  <img src="https://github.com/syxm1/syxm1/blob/master/img/img3.png" alt="Preview" width="400"/>
+  <img src="https://github.com/syxm1/syxm1/blob/master/img/img4.png" alt="Preview" width="400"/>
 </p>
 
 Here're links to my config files:

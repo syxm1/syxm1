@@ -1,4 +1,4 @@
-I run [Arch WSL](https://github.com/yuk7/ArchWSL) on Windows and use [WezTerm](https://wezterm.org/) as my terminal emulator with [Zsh](https://en.wikipedia.org/wiki/Z_shell) shell. [Neovim](https://neovim.io/) is my main text editor and finally, [tmux](https://github.com/tmux/tmux/wiki) to wrap things up.
+I run [Arch WSL](https://github.com/yuk7/ArchWSL) on Windows and use [WezTerm](https://wezterm.org/) as my terminal emulator with [Zsh](https://en.wikipedia.org/wiki/Z_shell) shell. [Neovim](https://neovim.io/) is my main text editor and finally, [tmux](https://github.com/tmux/tmux/wiki) to wrap everythings up.
 
 This is the preview of my set-up. <br>
 <p align="center">

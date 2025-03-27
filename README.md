@@ -6,7 +6,7 @@ My development environment is built on [Arch Linux running in WSL](https://githu
 
 I love to use Vim motions when it comes to editing. [Neovim](https://neovim.io/) is my go-to—lightning-fast, endlessly extensible, and perfectly tailored to my programming style. To manage sessions, multiplex terminals, and keep everything organized, I wrap it all in [tmux](https://github.com/tmux/tmux/wiki), allowing seamless context switching and persistent workflows.
 
-This is the preview of my set-up. <br>
+Here’s a quick peek at my setup: <br>
 <p align="center">
   <img src="https://github.com/syxm1/syxm1/blob/master/img/img1.png" alt="Preview" width="400"/>
   <img src="https://github.com/syxm1/syxm1/blob/master/img/img2.png" alt="Preview" width="400"/>
